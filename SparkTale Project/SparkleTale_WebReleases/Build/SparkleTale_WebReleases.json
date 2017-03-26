@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SparkleTale_WebReleases.data.unityweb",
+"asmCodeUrl": "SparkleTale_WebReleases.asm.code.unityweb",
+"asmMemoryUrl": "SparkleTale_WebReleases.asm.memory.unityweb",
+"asmFrameworkUrl": "SparkleTale_WebReleases.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
